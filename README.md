@@ -300,4 +300,6 @@ Here are a few images of the chrome extension :-
 ![Chrome Extension snapshopt](assets/Chrome_Extension-2.png)
 ![Chrome Extension snapshopt](assets/Chrome_Extension-3.png)
 
+<br>
 
+Inquiries: leetsummarizer@gmail.com
